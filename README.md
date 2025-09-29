@@ -16,10 +16,11 @@ I strive to build bridges between science and history, linking traditional herit
 
 📌 Links:
 - 🌐 [Official Website](https://www.chaogejilatu.com)  
-- 📖 [Google Scholar](https://scholar.google.com/citations?user=HiJ0Z0AAAAAJ&hl=ja)  
+- 🆔 [ISNI](https://isni.org/isni/0000000528391004)  
 - 📊 [Researchmap](https://researchmap.jp/chaogejilatu)  
 - 🆔 [ORCID](https://orcid.org/0000-0002-8544-3868)  
 - 📰 [About.me](https://about.me/chaogejilatu)  
+
 
 ---
 ⭐ “武は一時代を、文は万代を創る” – Carrying wisdom from history to create a sustainable future.
