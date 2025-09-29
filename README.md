@@ -23,4 +23,5 @@ I strive to build bridges between science and history, linking traditional herit
 
 
 ---
-⭐ “武は一時代を、文は万代を創る” – Carrying wisdom from history to create a sustainable future.
+⭐ “While power shapes an era, knowledge shapes eternity.”
+
