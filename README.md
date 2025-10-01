@@ -10,18 +10,19 @@ Currently based in Tsukuba, Japan, I work at the National Agriculture and Food R
 - Integration of remote sensing, GIS, and statistical modeling  
 - International collaborations across East Asia and global networks  
 
-🧭 Background:
+🧭 Background:  
 As a Mongolian researcher and a descendant of Tolei (the fourth son of Genghis Khan),  
 I strive to build bridges between science and history, linking traditional heritage with modern global challenges.  
 
-📌 Links:
+📌 Links:  
 - 🌐 [Official Website](https://www.chaogejilatu.com)  
 - 🆔 [ISNI](https://isni.org/isni/0000000528391004)  
 - 📊 [Researchmap](https://researchmap.jp/chaogejilatu)  
-- 🆔 [ORCID](https://orcid.org/0000-0002-8544-3868)  
+- 🔎 [ORCID](https://orcid.org/0000-0002-8544-3868)  
+- 📖 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59752017000)  
+- 📚 [Semantic Scholar](https://www.semanticscholar.org/author/2351550832)  
 - 📰 [About.me](https://about.me/chaogejilatu)  
 
-
 ---
-⭐ “While power shapes an era, knowledge shapes eternity.”
 
+⭐ “While power shapes an era, knowledge shapes eternity.”
