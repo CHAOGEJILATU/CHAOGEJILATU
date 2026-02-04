@@ -1,4 +1,3 @@
-# CHAOGEJILATU
 
 I am **CHAOGEJILATU**, an environmental scientist specializing in climate change impacts on agriculture, remote sensing, crop modeling, and geospatial data analysis.  
 Currently based in Tsukuba, Japan, I work at the National Agriculture and Food Research Organization (NARO).
