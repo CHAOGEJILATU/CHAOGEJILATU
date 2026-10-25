@@ -126,7 +126,7 @@ UNDER THE CREED <i>"PEOPLE FIRST, EDUCATION FIRST"</i>, CHAOGEJILATU DEDICATES S
 
 <p align="center">
   <a href="https://www.kadensha.net/book/b10168392.html">
-    <img src="https://raw.githubusercontent.com/CHAOGEJILATU/CHAOGEJILATU/main/images/book-cover.jpg" alt="BOOK COVER: IN SEARCH OF THE PHANTOM GRASSLANDS" width="300"/>
+    <img src="https://raw.githubusercontent.com/CHAOGEJILATU/CHAOGEJILATU/main/images/book-cover.jpg" alt="BOOK COVER: IN SEARCH OF THE PHANTOM GRASSLANDS" width="100%"/>
   </a>
 </p>
 
