@@ -90,7 +90,9 @@ JIRCAS（国際農研）および NARO（農研機構）において、気候変
 ## ABOUT ME (ENGLISH)
 
 <p align="center">
-  <img src="images/portrait.jpg" alt="PORTRAIT OF CHAOGEJILATU" width="400"/>
+  <a href="https://www.chaogejilatu.com">
+    <img src="https://raw.githubusercontent.com/CHAOGEJILATU/CHAOGEJILATU/main/images/portrait.jpg" alt="PORTRAIT OF CHAOGEJILATU" width="400"/>
+  </a>
 </p>
 
 <p align="justify">
@@ -124,7 +126,7 @@ UNDER THE CREED <i>"PEOPLE FIRST, EDUCATION FIRST"</i>, CHAOGEJILATU DEDICATES S
 
 <p align="center">
   <a href="https://www.kadensha.net/book/b10168392.html">
-    <img src="images/book-cover.jpg" alt="BOOK COVER: IN SEARCH OF THE PHANTOM GRASSLANDS" width="300"/>
+    <img src="https://raw.githubusercontent.com/CHAOGEJILATU/CHAOGEJILATU/main/images/book-cover.jpg" alt="BOOK COVER: IN SEARCH OF THE PHANTOM GRASSLANDS" width="300"/>
   </a>
 </p>
 
