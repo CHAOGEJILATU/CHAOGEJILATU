@@ -120,6 +120,36 @@ UNDER THE CREED <i>"PEOPLE FIRST, EDUCATION FIRST"</i>, CHAOGEJILATU DEDICATES S
 
 ---
 
+## BOOK
+
+<p align="center">
+  <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784763422316">
+    <img src="images/book-cover.jpg" alt="BOOK COVER: IN SEARCH OF THE PHANTOM GRASSLANDS" width="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>幻の大草原を追って</b><br/>
+  内モンゴルから日本へ、緑を取り戻すための留学記<br/><br/>
+  <b>IN SEARCH OF THE PHANTOM GRASSLANDS</b><br/>
+  FROM INNER MONGOLIA TO JAPAN — A STUDY-ABROAD MEMOIR OF RESTORING THE GREEN<br/><br/>
+  KADENSHA · MAY 2026 · ISBN 978-4-7634-2231-6
+</p>
+
+<p align="center">
+  <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784763422316">
+    <img alt="KINOKUNIYA" src="https://img.shields.io/badge/BUY-KINOKUNIYA-0F172A?style=for-the-badge&labelColor=020617">
+  </a>
+  <a href="https://www.maruzenjunkudo.co.jp/products/9784763422316">
+    <img alt="MARUZEN JUNKUDO" src="https://img.shields.io/badge/BUY-MARUZEN%20JUNKUDO-0F766E?style=for-the-badge&labelColor=134E4A">
+  </a>
+  <a href="https://ndlsearch.ndl.go.jp/en/books/R100000002-I034710275">
+    <img alt="NDL" src="https://img.shields.io/badge/NDL-NATIONAL%20DIET%20LIBRARY-2563EB?style=for-the-badge&labelColor=1E3A8A">
+  </a>
+</p>
+
+---
+
 ## CONTACT
 
 FOR PROFESSIONAL INQUIRIES, PLEASE USE THE CONTACT CHANNELS PROVIDED ON THE **OFFICIAL SITE**:
