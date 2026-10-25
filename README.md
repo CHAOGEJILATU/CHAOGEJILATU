@@ -123,7 +123,7 @@ UNDER THE CREED <i>"PEOPLE FIRST, EDUCATION FIRST"</i>, CHAOGEJILATU DEDICATES S
 ## BOOK
 
 <p align="center">
-  <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784763422316">
+  <a href="https://www.kadensha.net/book/b10168392.html">
     <img src="images/book-cover.jpg" alt="BOOK COVER: IN SEARCH OF THE PHANTOM GRASSLANDS" width="300"/>
   </a>
 </p>
@@ -137,6 +137,9 @@ UNDER THE CREED <i>"PEOPLE FIRST, EDUCATION FIRST"</i>, CHAOGEJILATU DEDICATES S
 </p>
 
 <p align="center">
+  <a href="https://www.kadensha.net/book/b10168392.html">
+    <img alt="KADENSHA" src="https://img.shields.io/badge/PUBLISHER-KADENSHA-E11D48?style=for-the-badge&labelColor=881337">
+  </a>
   <a href="https://www.kinokuniya.co.jp/f/dsg-01-9784763422316">
     <img alt="KINOKUNIYA" src="https://img.shields.io/badge/BUY-KINOKUNIYA-0F172A?style=for-the-badge&labelColor=020617">
   </a>
